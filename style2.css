@@ -1,0 +1,27 @@
+h2 {
+  color: blue;
+
+}
+
+/**
+.boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  padding: 5px 20px; /*Space between content and border
+  margin: 0px 20px; /*Space outside border
+  width: 30px;
+  height: 30px;
+}
+**/
+
+p {
+  font-size: 20px;
+}
+
+/*span is like div tag but within element*/
+/*em is in relation to base element*/
+span {
+  font-size: 5em; /* Font size is 5 times the containing element(p)*/
+
+}
+/*rem is in relation to root element (html)*/
